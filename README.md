@@ -1,10 +1,10 @@
 
-#本项目作为个人学习activiti的一个记录
+# 本项目作为个人学习activiti的一个记录 #
 
-##一：本项目参考原地址如下
-[http://www.xdemo.org/spring-activiti-integration/#comment-860](http://www.xdemo.org/spring-activiti-integration/#comment-860)
+## 一：本项目参考原地址如下 ##
+- [http://www.xdemo.org/spring-activiti-integration/#comment-860](http://www.xdemo.org/spring-activiti-integration/#comment-860)
 
-##二：系列文章可以借鉴一下
+## 二：系列文章可以借鉴一下 ##
   - [Activiti的历史背景和现状](http://blog.csdn.net/teamlet/article/details/43085971)
 -   [Activiti 5.17使用的类库和版本](http://blog.csdn.net/teamlet/article/details/43086345)
 -   [Activiti 5.17 引擎核心接口和服务的关系](http://blog.csdn.net/teamlet/article/details/43093935)
@@ -23,10 +23,10 @@
 -   [Activiti5.17 Vaadin、Spring和Activiti的整合和继承关系](http://blog.csdn.net/teamlet/article/details/43701869)
 -   [Activiti 5.17 以文件形式上传的restful resource](http://blog.csdn.net/teamlet/article/details/43924779)
 
-##三：activiti中文使用文档和说明
-[http://www.mossle.com/docs/activiti/index.html](http://www.mossle.com/docs/activiti/index.html)
+## 三：activiti中文使用文档和说明 ##
+- [http://www.mossle.com/docs/activiti/index.html](http://www.mossle.com/docs/activiti/index.html)
 
-##四：api英文文档
-[https://www.activiti.org/javadocs/index.html?_ga=2.172549671.528097352.1508200451-244778651.1507776653](https://www.activiti.org/javadocs/index.html?_ga=2.172549671.528097352.1508200451-244778651.1507776653)
+## 四：api英文文档 ##
+- [https://www.activiti.org/javadocs/index.html?_ga=2.172549671.528097352.1508200451-244778651.1507776653](https://www.activiti.org/javadocs/index.html?_ga=2.172549671.528097352.1508200451-244778651.1507776653)
 
 
